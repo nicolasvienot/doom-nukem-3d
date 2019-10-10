@@ -2,12 +2,6 @@
 
 Samples | Samples
 :-------------------------:|:-------------------------:
-![](resources/parkour.gif)  |  ![](resources/gif2.gif)
-![](resources/skybox1.gif)  |  ![](resources/skybox2.gif)
-
-
-
-
-| Tables
-:-------------------------:
-![](resources/editor2.gif)  
+![](resources/gif_parkour.gif)  |  ![](resources/gif_branch.gif)
+![](resources/gif_chillday.gif)  |  ![](resources/gif_spacepasseralle.gif)
+![](resources/editor2.gif)  | lol
