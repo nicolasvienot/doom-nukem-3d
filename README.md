@@ -2,8 +2,8 @@
 
 Samples
 
-<img align="left" width="422" src=resources/parkour.gif>
-<img align="left" width="422" src=resources/parkour.gif>
+<img align="left" width="420" src=resources/parkour.gif>
+<img align="right" width="420" src=resources/parkour.gif>
 
 ![Parkour](resources/parkour.gif)
 ![Gif2](resources/gif2.gif)
