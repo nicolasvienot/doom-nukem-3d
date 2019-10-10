@@ -1,6 +1,6 @@
 # doom-nukem-3d
 
-## A "doom/duke_nukem like" game, made in C with SDL2 using portal rendering method.
+### A "doom/duke_nukem like" game, made in C with SDL2 using portal rendering method.
 
 
 Samples | Samples
