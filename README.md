@@ -2,6 +2,10 @@
 
 Samples
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](resources/parkour.gif)  |  ![](resources/parkour.gif)
+
 <div class="row">
   <div class="column">
     <img src="resources/parkour.gif" alt="Snow" style="width:100%">
