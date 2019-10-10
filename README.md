@@ -1,5 +1,6 @@
 # doom-nukem-3d
 
-Parkour :
+Samples
 
 ![Parkour](resources/parkour.gif)
+![Gif2](resources/gif2.gif)
