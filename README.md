@@ -4,7 +4,7 @@
 
 ### Mac App
 
-[![Image of doom-nukem app](https://github.com/nicolasvienot/wolf3d/raw/master/resources/app_rdme.png)](https://drive.google.com/open?id=1c4bQNjl4Qpea87jTfgInliA_PBBSsSWA)
+[![Image of doom-nukem app](resources/doom_macapp.png)](https://drive.google.com/open?id=1c4bQNjl4Qpea87jTfgInliA_PBBSsSWA)
 
 Samples | Samples
 :-------------------------:|:-------------------------:
