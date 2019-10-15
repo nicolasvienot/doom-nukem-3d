@@ -6,7 +6,7 @@
 
 [![Image of doom-nukem app](resources/doom_macapp2.png)](https://drive.google.com/open?id=1c4bQNjl4Qpea87jTfgInliA_PBBSsSWA)
 
-Samples |      
+Samples | Samples  
 :-------------------------:|:-------------------------:
 ![](resources/gif_parkour.gif)  |  ![](resources/gif_branch.gif)
 ![](resources/gif_chillday.gif)  |  ![](resources/gif_spacepasserelle.gif)
