@@ -12,7 +12,4 @@ Samples | Samples
 ![](resources/gif_chillday.gif)  |  ![](resources/gif_spacepasserelle.gif)
 ![](resources/gif_editor-1.gif)  | ![](resources/gif_editor-2.gif) 
 
-Contributors :
-Alexis Bechet
-Cesar Glavieux
-Olivier Chaar
+Contributors : Alexis Bechet, Cesar Glavieux, Olivier Chaar
